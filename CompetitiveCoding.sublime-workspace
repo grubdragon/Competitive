@@ -172,13 +172,21 @@
 	"buffers":
 	[
 		{
-			"file": "Codeforces/357A.cpp",
+			"file": "Codeforces/794A.cpp",
 			"settings":
 			{
-				"buffer_size": 396,
+				"buffer_size": 241,
 				"encoding": "UTF-8",
 				"line_ending": "Unix",
-				"name": "#include <iostream>"
+				"name": "#include<iostream>"
+			}
+		},
+		{
+			"file": "Codeforces/483A.cpp",
+			"settings":
+			{
+				"buffer_size": 246,
+				"line_ending": "Unix"
 			}
 		}
 	],
@@ -284,13 +292,26 @@
 	"expanded_folders":
 	[
 		"/home/grubdragon/Local/Competitive",
-		"/home/grubdragon/Local/Competitive/A2"
+		"/home/grubdragon/Local/Competitive/Codeforces"
 	],
 	"file_history":
 	[
+		"/home/grubdragon/Local/Competitive/Codeforces/451A.cpp",
+		"/home/grubdragon/Local/Competitive/Codeforces/116A.cpp",
+		"/home/grubdragon/Local/Competitive/Codeforces/69A.cpp",
+		"/home/grubdragon/Local/Competitive/Codeforces/271A.cpp",
+		"/home/grubdragon/Local/Competitive/Codeforces/493A.cpp",
+		"/home/grubdragon/Local/Competitive/Codeforces/483A.cpp",
+		"/home/grubdragon/Local/Competitive/Codeforces/478A.cpp",
+		"/home/grubdragon/Local/Competitive/Codeforces/492A.cpp",
+		"/home/grubdragon/Local/Competitive/Codeforces/145A.cpp",
+		"/home/grubdragon/Local/Competitive/Codeforces/492C.cpp",
+		"/home/grubdragon/Local/Competitive/Codeforces/357A.cpp",
+		"/home/grubdragon/Local/Competitive/Codeforces/276D.cpp",
+		"/home/grubdragon/Local/Competitive/Codeforces/251A.cpp",
+		"/home/grubdragon/Local/Competitive/Codeforces/604B.cpp",
 		"/home/grubdragon/Local/ERC-Jekyll/erc-website-jekyll/index.html",
 		"/home/grubdragon/Local/Competitive/Codeforces/159B.cpp",
-		"/home/grubdragon/Local/Competitive/Codeforces/276D.cpp",
 		"/home/grubdragon/Local/Competitive/Codeforces/550A.cpp.bkp",
 		"/home/grubdragon/Local/Competitive/Codeforces/550A.cpp",
 		"/home/grubdragon/Local/Competitive/SPOJ/CNEASY.cpp",
@@ -299,7 +320,6 @@
 		"/home/grubdragon/Local/Competitive/SPOJ/BYTESE2.cpp",
 		"/home/grubdragon/Local/Competitive/SPOJ/TRT.cpp",
 		"/home/grubdragon/Local/Competitive/SPOJ/NITK06.cpp",
-		"/home/grubdragon/Local/Competitive/Codeforces/493A.cpp",
 		"/home/grubdragon/Local/Competitive/Codeforces/493A.cpp.bkp",
 		"/home/grubdragon/Local/ERC-Jekyll/edit2.py",
 		"/home/grubdragon/Local/Competitive/Akash/test.cpp",
@@ -402,32 +422,61 @@
 			[
 				{
 					"buffer": 0,
-					"file": "Codeforces/357A.cpp",
+					"file": "Codeforces/794A.cpp",
 					"semi_transient": false,
 					"settings":
 					{
-						"buffer_size": 396,
+						"buffer_size": 241,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								243,
-								243
+								241,
+								241
 							]
 						],
 						"settings":
 						{
-							"auto_name": "#include <iostream>",
+							"auto_name": "#include<iostream>",
 							"syntax": "Packages/C++/C++.sublime-syntax",
-							"translate_tabs_to_spaces": false
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
 						},
 						"translation.x": 0.0,
 						"translation.y": 0.0,
 						"zoom_level": 1.0
 					},
 					"stack_index": 0,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "Codeforces/483A.cpp",
+					"semi_transient": true,
+					"settings":
+					{
+						"buffer_size": 246,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								246,
+								246
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/C++/C++.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
 					"type": "text"
 				}
 			]

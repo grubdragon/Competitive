@@ -172,20 +172,20 @@
 	"buffers":
 	[
 		{
-			"file": "Codeforces/794A.cpp",
+			"file": "CodeChef/CHN15A.cpp",
 			"settings":
 			{
-				"buffer_size": 241,
+				"buffer_size": 220,
 				"encoding": "UTF-8",
-				"line_ending": "Unix",
-				"name": "#include<iostream>"
+				"line_ending": "Unix"
 			}
 		},
 		{
-			"file": "Codeforces/483A.cpp",
+			"file": "CodeChef/RAINBOWA.cpp",
 			"settings":
 			{
-				"buffer_size": 246,
+				"buffer_size": 189,
+				"encoding": "UTF-8",
 				"line_ending": "Unix"
 			}
 		}
@@ -206,7 +206,7 @@
 			],
 			[
 				"Packages/C++/C++ Single File.sublime-build",
-				"Run"
+				""
 			]
 		],
 		[
@@ -245,10 +245,26 @@
 	"build_varint": "",
 	"command_palette":
 	{
-		"height": 132.0,
-		"last_filter": "install",
+		"height": 252.0,
+		"last_filter": "remove",
 		"selected_items":
 		[
+			[
+				"remove",
+				"Package Control: Remove Package"
+			],
+			[
+				"insta",
+				"Package Control: Install Package"
+			],
+			[
+				"remove pa",
+				"Package Control: Remove Package"
+			],
+			[
+				"intsal",
+				"Package Control: Install Package"
+			],
 			[
 				"install",
 				"Package Control: Install Package"
@@ -270,7 +286,7 @@
 				"Package Control: Advanced Install Package"
 			]
 		],
-		"width": 449.0
+		"width": 488.0
 	},
 	"console":
 	{
@@ -292,10 +308,15 @@
 	"expanded_folders":
 	[
 		"/home/grubdragon/Local/Competitive",
-		"/home/grubdragon/Local/Competitive/Codeforces"
+		"/home/grubdragon/Local/Competitive/CodeChef"
 	],
 	"file_history":
 	[
+		"/home/grubdragon/Local/Competitive/CodeChef/SALARY.cpp",
+		"/home/grubdragon/Local/Competitive/CodeChef/CNOTE.cpp",
+		"/home/grubdragon/.config/sublime-text-3/Packages/Sublime Input/Default (Linux).sublime-keymap",
+		"/home/grubdragon/.config/sublime-text-3/Packages/Sublime Input/SublimeInput.sublime-settings",
+		"/home/grubdragon/Local/Competitive/Codeforces/794A.cpp",
 		"/home/grubdragon/Local/Competitive/Codeforces/451A.cpp",
 		"/home/grubdragon/Local/Competitive/Codeforces/116A.cpp",
 		"/home/grubdragon/Local/Competitive/Codeforces/69A.cpp",
@@ -367,7 +388,7 @@
 	],
 	"find":
 	{
-		"height": 30.0
+		"height": 26.0
 	},
 	"find_in_files":
 	{
@@ -417,60 +438,31 @@
 	"groups":
 	[
 		{
-			"selected": 0,
+			"selected": 1,
 			"sheets":
 			[
 				{
 					"buffer": 0,
-					"file": "Codeforces/794A.cpp",
+					"file": "CodeChef/CHN15A.cpp",
 					"semi_transient": false,
 					"settings":
 					{
-						"buffer_size": 241,
+						"buffer_size": 220,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								241,
-								241
+								0,
+								220
 							]
 						],
 						"settings":
 						{
-							"auto_name": "#include<iostream>",
+							"open_with_edit": true,
 							"syntax": "Packages/C++/C++.sublime-syntax",
-							"tab_size": 4,
-							"translate_tabs_to_spaces": true
-						},
-						"translation.x": 0.0,
-						"translation.y": 0.0,
-						"zoom_level": 1.0
-					},
-					"stack_index": 0,
-					"type": "text"
-				},
-				{
-					"buffer": 1,
-					"file": "Codeforces/483A.cpp",
-					"semi_transient": true,
-					"settings":
-					{
-						"buffer_size": 246,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								246,
-								246
-							]
-						],
-						"settings":
-						{
-							"syntax": "Packages/C++/C++.sublime-syntax"
+							"translate_tabs_to_spaces": false
 						},
 						"translation.x": 0.0,
 						"translation.y": 0.0,
@@ -478,17 +470,47 @@
 					},
 					"stack_index": 1,
 					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "CodeChef/RAINBOWA.cpp",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 189,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								101,
+								101
+							]
+						],
+						"settings":
+						{
+							"open_with_edit": true,
+							"syntax": "Packages/C++/C++.sublime-syntax",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
 				}
 			]
 		}
 	],
 	"incremental_find":
 	{
-		"height": 30.0
+		"height": 26.0
 	},
 	"input":
 	{
-		"height": 41.0
+		"height": 42.0
 	},
 	"layout":
 	{
@@ -525,7 +547,7 @@
 	"project": "CompetitiveCoding.sublime-project",
 	"replace":
 	{
-		"height": 70.0
+		"height": 48.0
 	},
 	"save_all_on_build": true,
 	"select_file":
